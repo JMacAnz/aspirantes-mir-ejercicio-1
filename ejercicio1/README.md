@@ -1,4 +1,6 @@
-cd C:\Users\junio\OneDrive\Escritorio\ejercicios
+pwd -
+cd C:\Users\junio\OneDrive\Escritorio
+mkdir ejercicios
 git init
 git add .
 git commit -m "Version Inicial"
